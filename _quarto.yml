@@ -1,0 +1,20 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Snitch's bioinfomatics tech blog🧬"
+  navbar:
+    right:
+      - about.qmd
+      - icon: github
+        href: https://twitter.com/excel2rlang
+      - icon: twitter
+        href: https://github.com/snitch0
+format:
+  html:
+    theme: Minty
+    css: styles.css
+
+
+

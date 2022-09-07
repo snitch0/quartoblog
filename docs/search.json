@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Second channel of excel2rlang.com"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "myblog",
+    "section": "",
+    "text": "news\n\n\n\n\n\n\n\n\n\n\n\n2022/09/06\n\n\nSnitch\n\n\n\n\n\n\n一致なし"
+  },
+  {
+    "objectID": "posts/my-first-quartoblog/index.html",
+    "href": "posts/my-first-quartoblog/index.html",
+    "title": "Quarto Blogを始めてみる その1 とりあえずデプロイ",
+    "section": "",
+    "text": "サブブログを始めました!　しばらくは技術的な検討をしてみて、こちらのブログでも運用できそうだったら移行してみようと思っています。"
+  },
+  {
+    "objectID": "posts/my-first-quartoblog/index.html#わざわざ作り直す理由",
+    "href": "posts/my-first-quartoblog/index.html#わざわざ作り直す理由",
+    "title": "Quarto Blogを始めてみる その1 とりあえずデプロイ",
+    "section": "わざわざ作り直す理由",
+    "text": "わざわざ作り直す理由\n理由はたくさんありますが、簡単に。\n\nメインブログの更新が重く感じてきた\nexcel2rlang.comではそこそこアクセスをいただけるようになってきてそれなりにモチベもあるのですが、一記事を書くのに一ヶ月近くかかってしまい、修練の時間もとれなくなってしまうのが辛く感じていました。。\n色々と執筆を楽にするためのショートコード(php)を作ったり、VSCodeのスニペットを作りまくったりしましたが、そもそもの文体・コンセプトがとにかく重い。マネタイズを目指して走り出したものの、このペースで走り続けるのは無理だという判断に至りました。\n\n\nRだけの話題だとネタ切れ\nそもそも、私は業務でRを使う機会がどんどん減ってきています。これにはのっぴきならない理由があるのですが、最近はもっぱらpythonで仕事、趣味ではRustといった具合なのでRコードすら書いてません。\n会社で実施していたRレクチャーも10回をやりきって一区切り。今はほとんどRを触ってすらいません。\n\n\nQuartoのエコシステムに飛びつきたかった\n各所で皆さんが既に反応されていますが、Quartoは現時点で既に静的なウェブサイトを簡単にビルドすることができる優秀なフレームワークになっているように思います。 以前からHugoで激軽量サイトを作りたいという欲があったため、ちょうどいいのでQuartoで作ってみようと思いました。"
+  },
+  {
+    "objectID": "posts/my-first-quartoblog/index.html#今後",
+    "href": "posts/my-first-quartoblog/index.html#今後",
+    "title": "Quarto Blogを始めてみる その1 とりあえずデプロイ",
+    "section": "今後",
+    "text": "今後\nいちからQuarto blogを作りつつ、Quartoでできることをまとめたり、Blog作成までの方法とかを記録して行こうと思います!\nゆるーく、色々なテーマで雑多にやってこうと思ってます😃"
+  }
+]

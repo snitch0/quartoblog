@@ -1,0 +1,18 @@
+---
+title: "About"
+image: profile.jpeg
+about:
+  template: jolla
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/excel2rlang
+    - icon: github
+      text: Github
+      href: https://github.com/snitch0
+
+---
+
+About this blog
+
+Second channel of [excel2rlang.com](https://excel2rlang.com)
